@@ -17,7 +17,7 @@ In the grand adventure of software development, I've collected a few more brag-w
 
 - **Efficiency Guru**: I'm the efficiency guru who can make code run faster than a caffeinated squirrel on a sugar high. If there's a way to optimize, I'll find it, and I've been known to turn spaghetti code into code that's as organized as a librarian's bookshelf.
 
-- **Design Pattern Whisperer**: I don't just use design patterns; I speak their language. It's like having a secret conversation with your code. The Singleton pattern is my trusted sidekick, the Factory pattern my creative muse, and the Adapter pattern my favorite "let's get things talking" trick.
+- **Design Pattern Whisperer**: I don't just use design patterns; I speak their language. It's like having a secret conversation with your code. 
 
 These are just a few more feathers in my developer's cap, and they make my software endeavors not only effective but also ridiculously fun. So, let's team up and bring some coding magic to the world! 🧙‍♂️💻🎩
 
